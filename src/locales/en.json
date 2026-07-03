@@ -182,6 +182,7 @@
     "legal_links": "Legal information",
     "privacy": "Privacy",
     "cookie": "Cookie",
+    "accessibility": "Accessibility",
     "eu_alt": "Funded by the European Union",
     "miur_alt": "Ministry of University and Research"
   },
@@ -359,5 +360,15 @@
       "title": "Legal basis",
       "text": "The use of technical cookies is based on the need to provide the services requested by the user, pursuant to Art. 6.1.b of the GDPR."
     }
+  },
+  "accessibility": {
+  "title": "Accessibility",
+  "paragraph_1": "The system provides content and features that can be used by all users, regardless of physical, technological or environmental limitations, in accordance with current regulations.",
+  "paragraph_2": "The system was developed using open source technologies (NodeJS, VueJS, PostgreSQL, Fuseki), compatible with international ISO and W3C recommendations.",
+  "paragraph_3": "It also relies on ShaclForm and Sparnatural libraries developed and shared online by third parties.",
+  "paragraph_4": "The system has been configured and customized to make the project content and the management, consultation and search of RDF data accessible.",
+  "paragraph_5": "Checks and adjustments are currently being carried out in accordance with the Guidelines on the accessibility of ICT tools issued by AGID – Agency for Digital Italy.",
+  "contact_intro": "To report any difficulties in accessing information and services, please write to:",
+  "contact_or": "or to"
   }
 }

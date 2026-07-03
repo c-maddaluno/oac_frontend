@@ -28,23 +28,30 @@
 
   </div>
 
-  <nav class="footer-legal"
-       aria-label="{{ t('footer.legal_links')|default('Informazioni legali') }}">
+     <nav class="footer-legal"
+          aria-label="{{ t('footer.legal_links')|default('Informazioni legali') }}">
 
-    <button type="button"
-            class="footer-legal-link"
-            onclick="openPrivacy()">
-      {{ t('footer.privacy')|default('Privacy') }}
-    </button>
+          <button type="button"
+                    class="footer-legal-link"
+                    onclick="openPrivacy()">
+          {{ t('footer.privacy')|default('Privacy') }}
+          </button>
 
-    <span class="footer-legal-separator" aria-hidden="true"></span>
+          <span class="footer-legal-separator" aria-hidden="true"></span>
 
-    <button type="button"
-            class="footer-legal-link"
-            onclick="openCookie()">
-      {{ t('footer.cookie')|default('Cookie') }}
-    </button>
+          <button type="button"
+                    class="footer-legal-link"
+                    onclick="openCookie()">
+          {{ t('footer.cookie')|default('Cookie') }}
+          </button>
 
-  </nav>
+          <span class="footer-legal-separator" aria-hidden="true"></span>
+
+          <button type="button"
+                    class="footer-legal-link"
+                    onclick="openAccessibility()">
+          {{ t('footer.accessibility')|default('Accessibilità') }}
+          </button>
+     </nav>
 
 </footer>
