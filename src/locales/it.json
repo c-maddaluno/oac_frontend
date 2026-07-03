@@ -187,6 +187,7 @@
         "legal_links": "Informazioni legali",
         "privacy": "Privacy",
         "cookie": "Cookie",
+        "accessibility": "Accessibilità",
         "eu_alt": "Finanziato dall’Unione Europea",
         "miur_alt": "Ministero dell’Università e della Ricerca"
     },
@@ -372,12 +373,17 @@
       "title": "Base giuridica",
       "text": "L’utilizzo dei cookie tecnici è basato sulla necessità di fornire i servizi richiesti dall’utente, ai sensi dell’art. 6.1.b del GDPR."
     }
-  }
-
-
-
-
-
+  },
+  "accessibility": {
+  "title": "Accessibilità",
+  "paragraph_1": "Il sistema offre contenuti e funzionalità fruibili da tutti gli utenti, indipendentemente da situazioni di limitazione fisica, tecnologica o ambientale, secondo le normative vigenti.",
+  "paragraph_2": "Il sistema è stato realizzato con tecnologia open source (NodeJS, VueJS, PostgreSQL, Fuseki), compatibile con le raccomandazioni internazionali ISO e W3C.",
+  "paragraph_3": "Si basa inoltre su librerie ShaclForm e Sparnatural sviluppate e condivise in rete da terze parti.",
+  "paragraph_4": "Il sistema è stato opportunamente configurato e personalizzato per rendere accessibili i contenuti del progetto e la gestione, consultazione e ricerca di dati in formato RDF.",
+  "paragraph_5": "Sono in corso verifiche e adeguamenti necessari secondo quanto stabilito dalle Linee Guida sull’accessibilità degli strumenti informatici emesse da AGID – Agenzia per l’Italia Digitale.",
+  "contact_intro": "Per segnalare eventuali difficoltà riscontrate nell’accesso alle informazioni e ai servizi, è possibile scrivere a:",
+  "contact_or": "oppure a"
+}
 
 
 }
